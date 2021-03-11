@@ -4,9 +4,13 @@
 <h2>About me</h2>
 
 :earth_americas: I'm from <strong>Brazil - São Paulo </strong>current living in  <strong>Portugal</strong>  
+
 :computer: and current working as a <strong>Junior Frontend developer </strong>  
+
 :book: My background is as a process analyst for IT department for almost 6 years  
+
 :heavy_check_mark: In 2019 I decided to change my career and did an <strong>Ironhack Web Development bootcamp</strong>  
+
 :nerd_face: Since then I keep studying and realized that development world is a <strong>forever student life</strong>!
 
 
