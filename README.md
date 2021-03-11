@@ -13,11 +13,11 @@
 <div align="left">
 
 <a href="https://www.linkedin.com/in/cristiane-koshino/" target="_blank">
-<img src="https://img.icons8.com/nolan/96/linkedin.png" width="40" title="linkedin"/>
+<img src="https://img.icons8.com/nolan/96/linkedin.png" width="30" title="linkedin"/>
 </a>
 
 <a href="mailto:cristianekoshino@gmail.com">
-<img src="https://img.icons8.com/nolan/96/email.png" width="50" title="cristianekoshino@gmail.com"/>
+<img src="https://img.icons8.com/nolan/96/email.png" width="35" title="cristianekoshino@gmail.com"/>
 </a>
 </div>
  
