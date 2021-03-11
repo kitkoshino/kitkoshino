@@ -1,7 +1,7 @@
-<h1 align="center"> Hey there! :wave: </h1>
-<p align="center" font-size:2em>I'm Cristiane but you can call me <strong>Kit</strong> :v: :smile: </p>
+<h1 align="left"> Hi there! :wave: </h1>
+<p align="left" font-size:2em>I'm Cristiane but you can call me <strong>Kit</strong> :v: :smile: </p>
 
-<h2>About me</h2>
+<h3>About me</h3>
 
 :earth_americas: I'm from <strong>Brazil - São Paulo </strong>current living in  <strong>Portugal</strong>  
 :computer: and current working as a <strong>Junior Frontend developer </strong>  
@@ -21,7 +21,7 @@
 </a>
 </div>
  
-<h2>Tech Stack </h2>
+<h3>Tech Stack </h3>
 <p align="left">
 <img src="https://img.icons8.com/color/96/000000/javascript.png" width="40" title="Javascript" />
 
@@ -45,7 +45,7 @@
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kitkoshino&&layout=compact&theme=react&title_color=#7957d5&text_color=#10ac84&hide_border=true)](https://github.com/kitkoshino/github-readme-stats)
 
- <h2>Tools</h2>
+ <h3>Tools</h3>
 
 <div align="left">
 
@@ -72,7 +72,7 @@ Others :
 
 </p>
 
-<h2>Studies</h2>
+<h3>Studies</h3>
 
 - Next Level Week #04 (Rocketseat)  
 - Desafio React (Algaworks)  
