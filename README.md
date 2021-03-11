@@ -3,8 +3,7 @@
 
 <h2>About me</h2>
 
-- :earth_americas: I'm from <strong>Brazil 
-- São Paulo </strong>current living in  <strong>Portugal</strong>
+- :earth_americas: I'm from <strong>Brazil - São Paulo </strong>current living in  <strong>Portugal</strong>
 - :computer: and current working as a <strong>Junior Frontend developer </strong>
 - :book: My background is as a process analyst for IT department for almost 6 years
 - :heavy_check_mark: In 2019 I decided to change my career and did an <strong>Ironhack Web Development bootcamp</strong>
@@ -44,7 +43,7 @@
 
 </p>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kitkoshino&&layout=compact&theme=react&title_color=#7957d5&text_color=##10ac84&hide_border=true)](https://github.com/kitkoshino/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kitkoshino&&layout=compact&theme=react&title_color=#7957d5&text_color=#10ac84&hide_border=true)](https://github.com/kitkoshino/github-readme-stats)
 
  <h2>Tools</h2>
 <div align="left">
@@ -74,14 +73,14 @@
 
 <h2>Studies</h2>
 
-- Next Level Week #04 (Rocketseat)
-- Next Level Week #03 (Rocketseat)
-- Desafio React (Algaworks)
-- Frontend developer Bootcamp (IGTI)
-- Next Level Week #02 (Rocketseat)
-- Next Level Week #01 (Rocketseat)
-- Web Development Bootcamp (Ironhack)
-- Basic javascript (Origamid)
-- Html5 and Css3 (Senac)
-- Internet Systems Degree (Uninove)
-- Multimedia Technician (Senac)
+:green_circle: Next Level Week #04 (Rocketseat)  
+:green_circle: Desafio React (Algaworks)  
+:green_circle: Next Level Week #03 (Rocketseat)  
+:green_circle: Frontend developer Bootcamp (IGTI)  
+:green_circle: Next Level Week #02 (Rocketseat)  
+:green_circle: Next Level Week #01 (Rocketseat)  
+:green_circle: Web Development Bootcamp (Ironhack)  
+:green_circle: Basic javascript (Origamid)  
+:green_circle: Html5 and Css3 (Senac)  
+:green_circle: Internet Systems Degree (Uninove)  
+:green_circle: Multimedia Technician (Senac)
