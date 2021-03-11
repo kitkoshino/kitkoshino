@@ -1,5 +1,5 @@
 <h1 align="center"> Hey there! :wave: </h1>
-<p align="center" font-size:2em>I'm Cristiane but you can call me <strong>Kit</strong> :v:  :smile: </p>
+<p align="center" font-size:2em>I'm Cristiane but you can call me <strong>Kit</strong> :v: :smile: </p>
 
 <h2>About me</h2>
 
@@ -10,19 +10,16 @@
 - :nerd_face: Since then I keep studying and realized that development world is a <strong>forever student life</strong>!
 
 
-<p align="center">
-<a href="https://www.linkedin.com/in/cristiane-koshino/" target="_blank">
+<div align="center">
 
-<img src="https://img.icons8.com/cute-clipart/128/000000/linkedin.png" width="50" title="linkedin"/>
+<a href="https://www.linkedin.com/in/cristiane-koshino/" target="_blank">
+<img src="https://img.icons8.com/nolan/96/linkedin.png" width="50" title="linkedin"/>
 </a>
 
-<img src="https://img.icons8.com/cute-clipart/128/000000/gmail.png" width="45" title="cristianekoshino@gmail.com"/>
-</p>
-
-<!--  I'm Cristiane Koshino and I started to study development in March/2020, since then I keep studying and learning with focus in Frontend development.
- 
- I'm from Brazil and always worked for IT department, mostly as a process analyst, working with customer services, Itil, areas with focus in IT service management. In 2017 I decided to move to Portugal and in 2018 I thought: <em><strong>"Changed country...why not change my career?".</strong></em> -->
- 
+<a href="mailto:cristianekoshino@gmail.com">
+<img src="https://img.icons8.com/nolan/96/email.png" width="60" title="cristianekoshino@gmail.com"/>
+</a>
+</div>
  
 <h2>Tech Stack </h2>
 <p align="left">
@@ -45,9 +42,8 @@
 <img src="https://img.icons8.com/color/96/000000/npm.png" width="60"  title="Npm"/>
 
 </p>
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kitkoshino&&layout=compact&theme=react&title_color=FFFF&text_color=fff)](https://github.com/kitkoshino/github-readme-stats)
 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kitkoshino&&layout=compact&theme=vue&&title_color=#7957d5&text_color=##10ac84&hide_border=true)](https://github.com/kitkoshino/github-readme-stats)
 
  <h2>Tools</h2>
 <div align="left">
@@ -60,6 +56,7 @@
 
 </div>
 <br />
+
 - Others
 <p align="left">
  <img src="https://img.icons8.com/color/96/000000/adobe-xd.png" width="60" title="Xd"/>
@@ -74,7 +71,7 @@
 
 </p>
 
-<h2>Studies</h2>
+<h2>Studies :rocket: </h2>
 
 - Next Level Week #04 (Rocketseat)
 - Next Level Week #03 (Rocketseat)
