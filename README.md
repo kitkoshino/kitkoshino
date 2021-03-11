@@ -11,7 +11,7 @@
 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/cristiane-koshino/" target="blank">
+<a href="https://www.linkedin.com/in/cristiane-koshino/" target="_blank">
 
 <img src="https://img.icons8.com/cute-clipart/128/000000/linkedin.png" width="50" title="linkedin"/>
 </a>
