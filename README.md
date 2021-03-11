@@ -10,7 +10,7 @@
 :nerd_face: Since then I keep studying and realized that development world is a <strong>forever student life</strong>!
 
 
-<div align="center">
+<div align="left">
 
 <a href="https://www.linkedin.com/in/cristiane-koshino/" target="_blank">
 <img src="https://img.icons8.com/nolan/96/linkedin.png" width="40" title="linkedin"/>
@@ -21,7 +21,7 @@
 </a>
 </div>
  
-<h3>Tech Stack </h3>
+<h2>Tech Stack </h2>
 <p align="left">
 <img src="https://img.icons8.com/color/96/000000/javascript.png" width="40" title="Javascript" />
 
@@ -45,7 +45,7 @@
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kitkoshino&&layout=compact&theme=react&title_color=#7957d5&text_color=#10ac84&hide_border=true)](https://github.com/kitkoshino/github-readme-stats)
 
- <h3>Tools</h3>
+ <h2>Tools</h2>
 
 <div align="left">
 
@@ -72,7 +72,7 @@ Others :
 
 </p>
 
-<h3>Studies</h3>
+<h2>Studies</h2>
 
 - Next Level Week #04 (Rocketseat)  
 - Desafio React (Algaworks)  
